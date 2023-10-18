@@ -16,15 +16,10 @@ I'm open to freelance opportunities - if you're itching to start a project, I'm 
 
 I developed this project using the following technologies:
 
-Languages:
-
 - HTML
-- JavScript
-
-Tools and Frameworks:
-
+- JavaScript
 - SASS
-- VsCode
+- Visual Studio Code
 
 ## :memo: License
 

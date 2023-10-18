@@ -4,11 +4,11 @@
 
 ## :computer: About
 
-I'm a digital enthusiast from Toronto, ON and I'm a dedicated to the world of front-end development. I absolutely love crafting stunning designs and effortlessly fusing them with code – it's where the magic happens! :D
+I'm a digital enthusiast from Toronto, ON. I'm dedicated to the world of front-end development and I absolutely love crafting stunning designs and effortlessly fusing them with code – it's where the magic happens! :D
 
-This personal website is a showcase of my finest work in front-end development, UX/UI design, and during my time at college. It's been meticulously crafted with a mobile-first approach, ensuring seamless responsiveness, and it dynamically showcases all my projects.
+This personal website is a showcase of my finest work in front-end development, UX/UI design, and freelance endeavours during my time at college. It's been meticulously crafted with a mobile-first approach, ensuring seamless responsiveness, and it dynamically showcases all my projects.
 
-I'm open to freelance opportunities - If you're itching to start a project, I'm just a message away!
+I'm open to freelance opportunities - if you're itching to start a project, I'm just a message away!
 
 ## :computer: Technologies
 

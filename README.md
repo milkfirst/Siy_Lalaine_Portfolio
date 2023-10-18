@@ -1,6 +1,8 @@
 # Lalaine Siy Portfolio ◦ Digital Designer
 
-<img src="/images/memoji_heart.png" alt="MeMoji Heart" width="250" height="250">
+<div align="center">
+    <img src="/images/memoji_heart.png" alt="MeMoji Heart" width="250" height="250">
+</div>
 
 ## :computer: About
 

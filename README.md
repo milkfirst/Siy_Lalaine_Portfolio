@@ -28,7 +28,7 @@ This project is under the MIT license.
 ```
 MIT License
 
-Copyright (c) 2021 Eduardo Schlichting
+Copyright (c) 2023 Lalaine Siy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

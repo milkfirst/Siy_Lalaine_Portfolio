@@ -4,7 +4,7 @@
     <img src="/images/memoji_heart.png" alt="MeMoji Heart" width="250" height="250">
 </div>
 
-## :computer: About
+## :8ball: About
 
 I'm a digital enthusiast from Toronto, ON. I'm dedicated to the world of front-end development and I absolutely love crafting stunning designs and effortlessly fusing them with code – it's where the magic happens! :D
 
